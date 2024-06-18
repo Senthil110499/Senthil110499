@@ -3,6 +3,7 @@
 <h1 align="center"> Hi 👋, I'm Senthil </h1>
 <h3 align="center">Passionate full-stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
 
+ <p align="left"> <img src="https://visitcount.itsvg.in/api?id=Senthil110499&icon=2&color=6" alt="Senthil110499" /> </p>
   
   - 🔭 I’m currently working on **MERN Stack**<br>
   
